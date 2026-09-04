@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-label="Foto de galería 1 - próximamente">
+  <rect width="800" height="600" fill="#eef1f6"/>
+  <rect x="24" y="24" width="752" height="552" rx="24" fill="#ffffff" stroke="#d5dce7" stroke-width="3" stroke-dasharray="14 10"/>
+  <g stroke="#b9c3d2" stroke-width="10" stroke-linecap="round">
+    <line x1="360" y1="240" x2="440" y2="240"/>
+    <line x1="400" y1="200" x2="400" y2="280"/>
+  </g>
+  <text x="400" y="350" font-family="Verdana, Arial, sans-serif" font-size="42" font-weight="bold" letter-spacing="10" fill="#8a96a8" text-anchor="middle">FOTO 1</text>
+  <text x="400" y="400" font-family="Verdana, Arial, sans-serif" font-size="24" fill="#a8b2c0" text-anchor="middle">Próximamente · fotografía profesional</text>
+</svg>

@@ -1,0 +1,42 @@
+{
+  "nombre": "Fabián Rincón C.",
+  "titulo": "Abogado · Especialización en Derecho Laboral y Seguridad Social (en curso)",
+  "marca": "FRC - Alianza Legal",
+  "lema": "Compromiso, estrategia y justicia.",
+  "descripcion": "Abogado especializado en derecho laboral individual y colectivo, pensiones y accidentes de trabajo. Compromiso, estrategia y justicia.",
+  "telefono": "3117811684",
+  "telefonoFormateado": "+57 311 781 1684",
+  "whatsapp": "573117811684",
+  "mensajeWhatsApp": "Hola Fabián, necesito una asesoría laboral",
+  "email": "fabian.rincon.c@example.com",
+  "ubicacion": {
+    "ciudad": "Cali, Colombia",
+    "direccion": "Cali, Valle del Cauca · dirección por confirmar",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=3.4516,-76.5320",
+    "lat": 3.4516,
+    "lng": -76.532
+  },
+  "horario": {
+    "dias": "Lunes a viernes",
+    "inicio": "8:00 AM",
+    "fin": "6:00 PM",
+    "nota": "Horario de oficina · atención con cita previa"
+  },
+  "redesSociales": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "tiktok": "",
+    "x": ""
+  },
+  "galeria": [
+    { "src": "assets/galeria/foto1.svg", "titulo": "Oficina" },
+    { "src": "assets/galeria/foto2.svg", "titulo": "Atención al cliente" },
+    { "src": "assets/galeria/foto3.svg", "titulo": "Equipo" }
+  ],
+  "konfio": {
+    "nombre": "KONFIO ZINC",
+    "url": "https://konfiozinc.github.io"
+  },
+  "marcaAgua": "Tarjeta digital creada con KONFIO ZINC"
+}

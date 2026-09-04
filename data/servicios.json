@@ -1,0 +1,26 @@
+[
+  {
+    "id": "laboral-individual",
+    "nombre": "Derecho laboral individual",
+    "icono": "📋",
+    "descripcion": "Contratos de trabajo, despidos, liquidaciones, acoso laboral y defensa de los derechos del trabajador o del empleador."
+  },
+  {
+    "id": "laboral-colectivo",
+    "nombre": "Derecho laboral colectivo",
+    "icono": "🤝",
+    "descripcion": "Negociación colectiva, sindicatos, convenciones, pactos colectivos y conflictos entre trabajadores y empleadores."
+  },
+  {
+    "id": "pensiones",
+    "nombre": "Pensiones",
+    "icono": "🏦",
+    "descripcion": "Requisitos de pensión, semanas cotizadas, reliquidaciones, mesadas y trámites ante Colpensiones o fondos privados."
+  },
+  {
+    "id": "accidentes-trabajo",
+    "nombre": "Accidentes de trabajo",
+    "icono": "🚑",
+    "descripcion": "Calificación de origen, riesgos laborales, indemnizaciones y acompañamiento ante la ARL y las EPS."
+  }
+]
